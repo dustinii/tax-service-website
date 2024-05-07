@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "daisyui": "^4.10.5",
+    "dotenv": "^16.4.5"
+  }
+}

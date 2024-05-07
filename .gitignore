@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Build directory
+.svelte-kit/
+
+# Package manager lock files
+package-lock.json
+yarn.lock
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Cache files
+**/node_modules/.cache/
+
+# Optional: Ignore specific local configuration files
+.env
